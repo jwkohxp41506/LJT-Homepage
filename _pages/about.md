@@ -32,14 +32,17 @@ Research Experience
 - **Research Intern**, Shanghai AI Lab, June 2023 - December 2023
   - Advised by Prof. Yu Cheng
 
-Publications
+Recent Publications
 ======
 
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}</ul>
+Visit the template-provided [publications page](/publications/) to see my publications, including:
 
-See the dedicated [publications page](/publications/) for the same publication list.
+- **SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond** (2025, Arxiv) - First author
+- **On the Perception Bottleneck of VLMs for Chart Understanding** (2025, Arxiv) - First author
+- **On the Universal Truthfulness Hyperplane Inside LLMs** (EMNLP 2024) - First author
+- **In-Context Sharpness as Alerts: An Inner Representation Perspective for Hallucination Mitigation** (ICML 2024) - Co-author
+- **C-Eval: A Multi-Level Multi-Discipline Chinese Evaluation Suite for Foundation Models** (NeurIPS 2023) - Co-author
+- **Composing Parameter-Efficient Modules with Arithmetic Operations** (NeurIPS 2023) - Co-author
 
 Contact
 ======
